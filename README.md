@@ -3,7 +3,7 @@ Data visualization is the graphical representation of information and data. By u
 
 # Intro to seaborn
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-
+check [here](Seaborn.ipynb)
 # Line charts
 Visualizing trends over time
 

@@ -21,10 +21,6 @@ Leveraging the coordinate plane to explore relationships between variables
 
 check [here](https://github.com/Zargham1214/Data-Visualization/blob/main/Scatter%20Plot.ipynb)
 
-# Distributions
-Creating histograms and density plots
 
-# Plot Types and Custom Styles
-Customizing your charts to them look snazzy
 
 
